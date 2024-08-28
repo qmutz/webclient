@@ -51,7 +51,7 @@
     "react-transform-hmr": "^1.0.1",
     "relaxed-json": "^0.2.9",
     "stripcomment-loader": "^0.1.0",
-    "webpack": "^1.12.9"
+    "webpack": "^5.94.0"
   },
   "devDependencies": {
     "esformatter": "^0.10.0",
